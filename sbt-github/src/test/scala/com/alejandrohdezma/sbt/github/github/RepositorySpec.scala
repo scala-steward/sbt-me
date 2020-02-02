@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2020 Alejandro Hernández <https://github.com/alejandrohdezma>
+ * Copyright 2019-2020 Scala Steward <https://github.com/scala-steward>
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
